@@ -13,7 +13,7 @@ A simple CRUD (Create, Read, Update, Delete) application to manage student recor
 ---
 
 ## Technologies Used
-- Java 16
+- Java 17
 - Spring Boot
 - Spring MVC
 - Spring Data JPA ( Hibernate)
